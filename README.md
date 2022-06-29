@@ -4,3 +4,6 @@ A repository for machine learning models using real world data.
 2. Search engine for book titles for the reader in me. Data overview from https://sites.google.com/eng.ucsd.edu/ucsdbookgraph/home. 
 - The initial step to a book recommendation system to experiment the differences between content based recommendation and collaborative recommendation. 
 3. Content based book recommendation system.
+4. Sentiment Analysis for NYT headlines using VADER analysis - polarity prediction of the headlines. 
+- NYT API extraction using ConfigParser.
+- Separating stopwords from the headlines to predict the polarity.
